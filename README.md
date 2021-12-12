@@ -1,8 +1,8 @@
 참고 : 프로그램 핵심부분인 MVC 부분만 있습니다. 테스트용 비밀키가 다수 포함되어 있고 모두 Block 처리하기 무리가 있어 전체를 올리지 못하였습니다.
 
-Year : 2019, 2020
-name : 웹 트레이더 봇 & 웹, 채팅 크롤링 (개인프로젝트)
-Environment : Apache / MySQL / PHP
+Year : 2019, 2020 <br />
+name : 웹 트레이더 봇 & 웹, 채팅 크롤링 (개인프로젝트) <br />
+Environment : Apache / MySQL / PHP <br />
 Language : PHP 7 / HTML / JavaScript / CSS
 
 특징
